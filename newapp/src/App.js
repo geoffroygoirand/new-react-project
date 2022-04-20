@@ -4,7 +4,8 @@ import './counter.js'
 
 function App() {
   return (
-    </Counter>
+    <Counter/>
+    <Hello/>
   );
 }
 
